@@ -4,3 +4,7 @@
 In action:
 
 ![aeonium-list-of-list-of-lists](./aeonium-lolol.gif)
+
+based on some training data:
+
+![3x8 montage of training data](./art-text-plant-montage.jpg)
